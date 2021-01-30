@@ -27,5 +27,4 @@
 	<permission name="fileSystem" />
 	<permission name="internet" />
 	<permission name="bootCompleted" />
-	<permission name="hardware" />  <preference name="softInputMode" value="resize"/>    <feature name="wxPayPlus">        <param name="urlScheme" value="wx7b35cbad8812347c"/>        <param name="apiKey" value="wx7b35cbad8812347c"/>        <param name="apiSecret" value="21c81a1246a0abb0dd1c6847b28248fd"/>        <param name="universalLink" value="https://app.xinba.com"/>    </feature>    <feature name="wxPlus">        <param name="urlScheme" value="wx7b35cbad8812347c"/>        <param name="apiKey" value="wx7b35cbad8812347c"/>        <param name="apiSecret" value="21c81a1246a0abb0dd1c6847b28248fd"/>        <param name="universalLink" value="https://app.xinba.com"/>    </feature>    <feature name="aliPayPlus">        <param name="urlScheme" value="AliPayPlusA6013259979793" />    </feature>
-</widget>
+	<permission name="hardware" /></widget>
